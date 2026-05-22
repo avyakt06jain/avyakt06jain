@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <sub>CS & AI undergrad @ NSUT Delhi · Season of KDE mentee · Codeforces 1354 · building at the intersection of systems programming and machine learning</sub>
+  <sub>CS & AI undergrad @ NSUT Delhi · Season of KDE mentee · LeetCode 1635 · building at the intersection of systems programming and machine learning</sub>
 </p>
 
 ---
