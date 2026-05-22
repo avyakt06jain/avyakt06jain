@@ -14,15 +14,15 @@ avyakt@nsut ~ $ neofetch
                     avyakt jain
   ┌──────────────────────────────────────────────────────┐
   │  os        NSUT Delhi · B.Tech CS & AI · 2024–2028   │
-  │  kernel    systems programming · distributed systems  │
-  │  shell     ml research · multimodal learning · rag    │
-  │  uptime    season of kde mentee (cantor CI infra)     │
-  │            openroad/orassistant contributor            │
-  │  packages  pytorch · huggingface · faiss · fastapi    │
-  │  wm        c++ · python · posix · linux · docker      │
-  │  terminal  codeforces 1354 · leetcode 1624            │
-  │  editor    currently exploring: eeg + speech           │
-  │            multimodal representation learning          │
+  │  kernel    systems programming · distributed systems │
+  │  shell     ml research · multimodal learning · rag   │
+  │  uptime    season of kde mentee (cantor CI infra)    │
+  │            openroad/orassistant contributor          │
+  │  packages  pytorch · huggingface · faiss · fastapi   │
+  │  wm        c++ · python · posix · linux · docker     │
+  │  terminal  codeforces 1354 · leetcode 1624           │
+  │  editor    currently exploring: eeg + speech         │
+  │            multimodal representation learning        │
   └──────────────────────────────────────────────────────┘
 ```
 
