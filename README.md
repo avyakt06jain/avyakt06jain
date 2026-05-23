@@ -103,10 +103,10 @@ My current focus is on deep learning, generative AI, retrieval systems, and scal
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyakt06jain&layout=compact&theme=dark&bg_color=000000&title_color=f97316&text_color=c9d1d9&border_color=30363d&langs_count=6" alt="Top Languages">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avyakt06jain&theme=dracula" alt="Top Languages">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=avyakt06jain&show_icons=true&theme=dark&bg_color=000000&title_color=f97316&icon_color=f97316&text_color=c9d1d9&border_color=30363d" alt="GitHub stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avyakt06jain&theme=dracula" alt="GitHub stats">
       </td>
     </tr>
   </table>
