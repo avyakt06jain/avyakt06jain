@@ -22,7 +22,7 @@
 
  | LinkedIn | GitHub | LeetCode | KDE Invent | Email |
  | --- | --- | --- | --- | --- |
- | [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Favyakt-jain&subtitle=@avyakt-jain&size=square)](https://linkedin.com/in/avyakt-jain) | [![GitHub](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Favyakt06jain&subtitle=@avyakt06jain&size=square)](https://github.com/avyakt06jain) | [![LeetCode](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=LeetCode&size=square)](https://leetcode.com/u/avyakt_jain/) | [![KDE](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=KDE+Invent&size=square)](https://invent.kde.org/avyaktjain) | [![Email](https://bentos.jkominovic.dev/api/v1/bento-cards?url=mailto%3Aavyakt06%40gmail.com&subtitle=avyakt06@gmail.com&size=square)](mailto:avyakt06@gmail.com) |
+ | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avyakt-jain) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avyakt06jain) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/avyakt_jain/) | [![KDE](https://img.shields.io/badge/KDE_Invent-1D99F3?style=for-the-badge&logo=kde&logoColor=white)](https://invent.kde.org/avyaktjain) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avyakt06@gmail.com) |
 
 <br>
 
@@ -34,7 +34,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I am a Pre-final year Computer Science & AI student at NSUT, Delhi. I specialize in the intersection of **Systems Programming** and **Machine Learning Research**. My work spans from building high-performance Unix shells in C++17 to architecting production-grade Recommendation and Advanced RAG Systems. I am a selected contributor to KDE (Season of KDE 2026) and the OpenROAD project, demonstrating my commitment to robust open-source software engineering. 
+I am an undergrad Computer Science & AI student at NSUT, Delhi. I specialize in the intersection of **Systems Programming** and **Machine Learning Research**. My work spans from building high-performance Unix shells in C++17 to architecting production-grade Recommendation and Advanced RAG Systems. I am a selected contributor to KDE (Season of KDE 2026) and the OpenROAD project, demonstrating my commitment to robust open-source software engineering. 
 
 My current focus is on deep learning, generative AI, retrieval systems, and scalable infrastructure.
 
@@ -47,22 +47,22 @@ My current focus is on deep learning, generative AI, retrieval systems, and scal
     <tr>
       <td align="center">
         <a href="https://www.coursera.org/account/accomplishments/specialization/DSEW7XB9X7LY">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Coursera_logo.svg" alt="Stanford ML" style="width:120px; max-width:100%; height:auto;" />
+          <img src="https://img.shields.io/badge/Stanford_ML-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Stanford ML" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JC2QGKUNUNI6">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Coursera_logo.svg" alt="Math for ML" style="width:120px; max-width:100%; height:auto;" />
+          <img src="https://img.shields.io/badge/Math_for_ML-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Math for ML" />
         </a>
       </td>
       <td align="center">
         <a href="https://cdn-uploads.huggingface.co/production/uploads/noauth/-Bk4UFgRqA69mcrhs5PRd.webp">
-          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face LLMs" style="width:100px; max-width:100%; height:auto;" />
+          <img src="https://img.shields.io/badge/Fundamentals_of_LLMs-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face LLMs" />
         </a>
       </td>
       <td align="center">
         <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/385766d8-67ec-413d-8af2-e1b6cf227982-avyakt-jain-98fe79a8-8c4a-474b-9ea8-598f97e7e123-certificate.pdf">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Linux_Foundation_logo.svg" alt="Linux Foundation" style="width:120px; max-width:100%; height:auto;" />
+          <img src="https://img.shields.io/badge/Open_Source_Dev-Linux_Foundation-000000?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Linux Foundation" />
         </a>
       </td>
     </tr>
@@ -103,10 +103,10 @@ My current focus is on deep learning, generative AI, retrieval systems, and scal
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyakt06jain&hide=html&hide_border=true&layout=compact&langs_count=6&theme=highcontrast&title_color=F97316" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyakt06jain&layout=compact&theme=dark&bg_color=000000&title_color=f97316&text_color=c9d1d9&border_color=30363d&langs_count=6" alt="Top Languages">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=avyakt06jain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast&title_color=F97316" alt="GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=avyakt06jain&show_icons=true&theme=dark&bg_color=000000&title_color=f97316&icon_color=f97316&text_color=c9d1d9&border_color=30363d" alt="GitHub stats">
       </td>
     </tr>
   </table>
