@@ -158,6 +158,15 @@ My current focus is on deep learning, generative AI, retrieval systems, and scal
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
+      <a href="https://github.com/avyakt06jain/aerial-land-cover-segmentation">
+        <img src="https://img.icons8.com/color/96/000000/satellite.png" alt="Aerial Land Cover Segmentation"/>
+      </a>
+      <br>
+      <strong>Aerial Land Cover Segmentation</strong>
+      <br>
+      <i>U-Net + ResNet-34 semantic segmentation on satellite imagery classifying 6 land cover classes with GIS-ready GeoJSON export.</i>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://github.com/avyakt06jain/advanced-RAG-system">
         <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="Advanced RAG"/>
       </a>
@@ -174,15 +183,6 @@ My current focus is on deep learning, generative AI, retrieval systems, and scal
       <strong>Production Movie Recommender</strong>
       <br>
       <i>Two-Tower NN, LambdaRank, and FAISS. Sub-100ms FastAPI backend with Supabase and Redis.</i>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://github.com/avyakt06jain/distributed-ml-scheduler">
-        <img src="https://img.icons8.com/color/96/000000/network-drive.png" alt="Distributed Scheduler"/>
-      </a>
-      <br>
-      <strong>Distributed ML Scheduler</strong>
-      <br>
-      <i>Discrete-Event Simulation engine modeling parallel ML workloads across heterogeneous compute clusters.</i>
     </td>
   </tr>
   <tr>
@@ -223,30 +223,65 @@ My current focus is on deep learning, generative AI, retrieval systems, and scal
 
 <div align="center">
 
-**`Systems & Languages`**<br>
+**`Languages`**<br>
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=F97316)
 ![C++](https://img.shields.io/badge/C++17-0d1117?style=for-the-badge&logo=cplusplus&logoColor=F97316)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=F97316)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=F97316)
-![POSIX](https://img.shields.io/badge/POSIX_Linux-0d1117?style=for-the-badge&logo=linux&logoColor=F97316)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=F97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F97316)
 
 <br>
 
-**`Machine Learning & AI`**<br>
+**`AI / ML / Deep Learning`**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=F97316)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=F97316)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=F97316)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F97316)
-![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=F97316)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=for-the-badge&logo=google-gemini&logoColor=F97316)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=F97316)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=F97316)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=F97316)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=F97316)
 
 <br>
 
-**`Backend & Infra`**<br>
+**`Computer Vision & Geospatial`**<br>
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=F97316)
+![Segmentation](https://img.shields.io/badge/Semantic_Segmentation-0d1117?style=for-the-badge&logo=pytorch&logoColor=F97316)
+![Rasterio](https://img.shields.io/badge/Rasterio-0d1117?style=for-the-badge&logo=python&logoColor=F97316)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0d1117?style=for-the-badge&logo=python&logoColor=F97316)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-0d1117?style=for-the-badge&logo=mapbox&logoColor=F97316)
+
+<br>
+
+**`LLM & Agentic AI`**<br>
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=F97316)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=F97316)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logo=meta&logoColor=F97316)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=F97316)
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=F97316)
+![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=for-the-badge&logo=qdrant&logoColor=F97316)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=for-the-badge&logo=google-gemini&logoColor=F97316)
+
+<br>
+
+**`Backend & Data`**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=F97316)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=F97316)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=F97316)
-![CMake](https://img.shields.io/badge/CMake-0d1117?style=for-the-badge&logo=cmake&logoColor=F97316)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=F97316)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=F97316)
+![Spark](https://img.shields.io/badge/Apache_Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=F97316)
+
+<br>
+
+**`Infrastructure & DevOps`**<br>
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=F97316)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=F97316)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=F97316)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F97316)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=F97316)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&logo=githubactions&logoColor=F97316)
+
+<br>
+
+**`Core Concepts`**<br>
+![System Design](https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logo=blueprint&logoColor=F97316)
+![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=F97316)
+![Information Retrieval](https://img.shields.io/badge/Information_Retrieval-0d1117?style=for-the-badge&logo=elastic&logoColor=F97316)
 
 </div>
