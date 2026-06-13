@@ -158,7 +158,7 @@ My current focus is on deep learning, generative AI, retrieval systems, and scal
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/avyakt06jain/aerial-land-cover-segmentation">
+      <a href="https://github.com/avyakt06jain/aeroseg-satellite-image-segmentation">
         <img src="https://img.icons8.com/color/96/000000/satellite.png" alt="Aerial Land Cover Segmentation"/>
       </a>
       <br>
